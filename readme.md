@@ -22,6 +22,7 @@
 
 ## 🎓 **Education**  
 🎓 **B.Tech in Electronics & Telecommunication Engineering (EXTC)** – Dr. Babasaheb Ambedkar Technological University (DBATU), 7.87 CGPA, (First class with Distinction)
+
 🎓 **Diploma in Electronics & Telecommunication Engineering** – Dr. Babasaheb Ambedkar Technological University, 9.8 CGPA (FY to TY constant ranker)
 
 ---

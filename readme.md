@@ -8,16 +8,15 @@
 
 ---
 
-## 💻 **Skills & Technologies**  
-🔹 **Embedded Systems & Microcontrollers:** ESP32, STM32, Arduino, Raspberry Pi  
-🔹 **Programming:** Embedded C, C++, Python, MATLAB, VHDL, Verilog  
-🔹 **PCB Design & Hardware:** Altium, KiCad, LTspice, PSpice, Multisim  
-🔹 **Power Electronics:** DC-DC Converters, Motor Drives, ECU, BMS, Battery and its Chemistries  
-🔹 **IoT & Communication Protocols:** MQTT, LoRa, Zigbee, CAN Bus, UART, SPI, I2C, Power Delivery standards  
-🔹 **Machine Learning & AI:** Edge AI (TensorFlow Lite), Computer Vision, Predictive Analytics, Training Models
+## 💻 **Skills & Technologies**
 🔹 **Industrial Automation:** PLC, SCADA, DCS, RTOS
-🔹 **Version Control & Tools:** Git, GitHub, Docker, Kubernetes  
-
+🔹 **Version Control & Tools:** Git, GitHub, Docker, Kubernetes
+🔹 **Programming:** Embedded C, C++, Python, MATLAB, VHDL, Verilog
+🔹 **PCB Design & Hardware:** Altium, KiCad, LTspice, PSpice, Multisim
+🔹 **Embedded Systems & Microcontrollers:** ESP32, STM32, Arduino, Raspberry Pi
+🔹 **Power Electronics:** DC-DC Converters, Motor Drives, ECU, BMS, Battery and its Chemistries
+🔹 **IoT & Communication Protocols:** MQTT, LoRa, Zigbee, CAN Bus, UART, SPI, I2C, Power Delivery standards
+🔹 **Machine Learning & AI:** Edge AI (TensorFlow Lite), Computer Vision, Predictive Analytics, Training Models
 ---
 
 ## 🎓 **Education**  

@@ -2,8 +2,8 @@
 ### 🚀 EV Battery Specialist & Cloud Engineer | R&D | Power Electronics | IoT | Embedded
 
 🔬 Passionate about **Embedded Systems, Power Electronics, and AI for Industrial Automation**.  
-💡 I specialize in **Microcontrollers, PCB Design, IoT, ADC-DAC, Power electronics, and AI-based Embedded Solutions**.  
-🔧 Constantly exploring **Industry 4.0, Smart Systems, and Predictive Maintenance**.  
+💡 I specialize in **Cloud Solutions, Microcontroller, PCB Design, EV Battery, BMS, MCU, and ECU**.  
+🔧 Constantly exploring **Industry 4.0, Smart Systems, Predictive Maintenance, and AI Integration**.  
 📈 Seeking opportunities in **R&D, Embedded AI, and Industrial Automation**.  
 
 ---
@@ -12,17 +12,17 @@
 🔹 **Embedded Systems & Microcontrollers:** ESP32, STM32, Arduino, Raspberry Pi  
 🔹 **Programming:** Embedded C, C++, Python, MATLAB, VHDL, Verilog  
 🔹 **PCB Design & Hardware:** Altium, KiCad, LTspice, PSpice, Multisim  
-🔹 **Power Electronics:** DC-DC Converters, Inverters, Motor Drives, SMPS  
-🔹 **IoT & Communication Protocols:** MQTT, LoRa, Zigbee, CAN Bus, UART, SPI, I2C  
-🔹 **Machine Learning & AI:** Edge AI (TensorFlow Lite), Computer Vision, Predictive Analytics  
-🔹 **Industrial Automation:** PLC, SCADA, DCS, RTOS (FreeRTOS, Zephyr)  
+🔹 **Power Electronics:** DC-DC Converters, Motor Drives, ECU, BMS, Battery and its Chemistries  
+🔹 **IoT & Communication Protocols:** MQTT, LoRa, Zigbee, CAN Bus, UART, SPI, I2C, Power Delivery standards  
+🔹 **Machine Learning & AI:** Edge AI (TensorFlow Lite), Computer Vision, Predictive Analytics, Training Models
+🔹 **Industrial Automation:** PLC, SCADA, DCS, RTOS
 🔹 **Version Control & Tools:** Git, GitHub, Docker, Kubernetes  
 
 ---
 
 ## 🎓 **Education**  
-🎓 **B.Tech in Electronics & Telecommunication Engineering (EXTC)** – Dr. Babasaheb Ambedkar Technological University (DBATU), India  (7.87 CGPA, First class with Distinction)
-🎓 **Diploma in Electronics & Telecommunication Engineering** – From same DBATU, Lonere, 9.8 CGPA (FY to TY constant ranker)
+🎓 **B.Tech in Electronics & Telecommunication Engineering (EXTC)** – Dr. Babasaheb Ambedkar Technological University (DBATU), 7.87 CGPA, (First class with Distinction)
+🎓 **Diploma in Electronics & Telecommunication Engineering** – Dr. Babasaheb Ambedkar Technological University, 9.8 CGPA (FY to TY constant ranker)
 
 ---
 
@@ -47,5 +47,5 @@
 ---
 
 ### **💡 Let's Innovate Together!**  
-🚀 Open to **collaborations, research, and exciting embedded systems projects**!  
+🚀 Open to **collaborations, research, and exciting embedded, cloud, and EV systems projects**!  
 Feel free to check out my repositories and connect with me. 😊  

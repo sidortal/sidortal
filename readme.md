@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Siddhesh Dangade!  
-### 🚀 Electronics & Embedded Systems Engineer | R&D | Power Electronics | IoT  
+### 🚀 EV Battery Specialist & Cloud Engineer | R&D | Power Electronics | IoT | Embedded
 
 🔬 Passionate about **Embedded Systems, Power Electronics, and AI for Industrial Automation**.  
 💡 I specialize in **Microcontrollers, PCB Design, IoT, ADC-DAC, Power electronics, and AI-based Embedded Solutions**.  

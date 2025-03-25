@@ -17,6 +17,7 @@
 🔹 **Power Electronics:** DC-DC Converters, Motor Drives, ECU, BMS, Battery and its Chemistries
 🔹 **IoT & Communication Protocols:** MQTT, LoRa, Zigbee, CAN Bus, UART, SPI, I2C, Power Delivery standards
 🔹 **Machine Learning & AI:** Edge AI (TensorFlow Lite), Computer Vision, Predictive Analytics, Training Models
+
 ---
 
 ## 🎓 **Education**  

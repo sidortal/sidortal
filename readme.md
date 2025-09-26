@@ -11,19 +11,17 @@
 ## 💻 **Skills & Technologies**
 🔹 **Industrial Automation:** PLC, SCADA, DCS, RTOS
 
-🔹 **Version Control & Tools:** Git, GitHub, Docker, Kubernetes
+🔹 **Version Control & Tools:** Git, GitHub
 
-🔹 **Programming:** Embedded C, C++, Python, MATLAB, VHDL, Verilog
+🔹 **Programming:** C++, Python, MATLAB
 
-🔹 **PCB Design & Hardware:** Altium, KiCad, LTspice, PSpice, Multisim
+🔹 **PCB Design & Hardware:** KiCad, LTspice, Multisim
 
-🔹 **Embedded Systems & Microcontrollers:** ESP32, STM32, Arduino, Raspberry Pi
+🔹 **Embedded Systems & Microcontrollers:** ESP32, Arduino, Raspberry Pi
 
 🔹 **Power Electronics:** DC-DC Converters, Motor Drives, ECU, BMS, Battery and its Chemistries
 
-🔹 **IoT & Communication Protocols:** MQTT, LoRa, Zigbee, CAN Bus, UART, SPI, I2C, Power Delivery standards
-
-🔹 **Machine Learning & AI:** Edge AI (TensorFlow Lite), Computer Vision, Predictive Analytics, Training Models
+🔹 **IoT & Communication Protocols:** CAN Bus, UART, SPI, I2C, Power Delivery standards
 
 ---
 
@@ -35,6 +33,9 @@
 ---
 
 ## 📂 **Projects & Research**  
+
+🔸 [**PowerCore BMS**](https://github.com/sidortal/PowerCore-BMS) – Imporving safety in EV battery pack using ESP32, triggers fire extingusiher using fumes and infrared temprature detection.
+
 🔸 [**Enhancing-SolarPanel-Efficiency**](https://github.com/sidortal/Enhancing-SolarPanel-Efficiency) – The project is about waste heat recovery from Solar Panel in an affordable way
 
 🔸 [**Railway-platform-safety-system**](https://github.com/sidortal/Railway-platform-safety-system) – This Project (inspired by a real-life incident) is about ensuring safe on-boarding and off-boarding in Train.

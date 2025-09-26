@@ -34,7 +34,7 @@
 
 ## 📂 **Projects & Research**  
 
-🔸 [**PowerCore BMS**](https://github.com/sidortal/PowerCore-BMS) – Imporving safety in EV battery pack using ESP32, triggers fire extingusiher using fumes and infrared temprature detection.
+🔸 [**PowerCore BMS**](https://github.com/sidortal/PowerCore-BMS) – Improving safety in EV battery pack using ESP32, triggers fire supression using fumes and infrared temprature detection.
 
 🔸 [**Enhancing-SolarPanel-Efficiency**](https://github.com/sidortal/Enhancing-SolarPanel-Efficiency) – The project is about waste heat recovery from Solar Panel in an affordable way
 

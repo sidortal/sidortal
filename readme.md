@@ -3,13 +3,13 @@
 
 🔬 Passionate about **Embedded Systems, Power Electronics, and AI for Industrial Automation**.  
 💡 I specialize in **Cloud Solutions, Microcontroller, PCB Design, EV Battery, BMS, MCU, and ECU**.  
-🔧 Constantly exploring **Industry 4.0, Smart Systems, Predictive Maintenance, and AI Integration**.  
+🔧 Constantly exploring **Industry 4.0, Smart Systems and Predictive Maintenance**.  
 📈 Seeking opportunities in **R&D, Embedded AI, and Industrial Automation**.  
 
 ---
 
 ## 💻 **Skills & Technologies**
-🔹 **Industrial Automation:** PLC, SCADA, DCS, RTOS
+🔹 **Industrial Automation:** PLC, SCADA, DCS.
 
 🔹 **Version Control & Tools:** Git, GitHub
 

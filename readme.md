@@ -3,7 +3,7 @@
 
 🔬 Passionate about **Embedded Systems, Power Electronics, and AI for Industrial Automation**.  
 💡 I specialize in **Cloud Solutions, Microcontroller, PCB Design, EV Battery, BMS, MCU, and ECU**.  
-🔧 Constantly exploring **Industry 4.0, Smart Systems and Predictive Maintenance**.  
+🔧 Constantly exploring **BMS, Energy Storage, Smart Systems and Predictive Maintenance**.  
 📈 Aspiring Battery Specialist with expertise **in R&D and Industrial Automation, seeking opportunities to innovate and contribute to cutting-edge energy technologies**.  
 
 ---
